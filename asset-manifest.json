@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cmllucmajor.com/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/cmllucmajor.com/static/js/main.94ff64ce.chunk.js",
+    "main.js.map": "/cmllucmajor.com/static/js/main.94ff64ce.chunk.js.map",
+    "runtime-main.js": "/cmllucmajor.com/static/js/runtime-main.e9219bde.js",
+    "runtime-main.js.map": "/cmllucmajor.com/static/js/runtime-main.e9219bde.js.map",
+    "static/js/2.f8e1ac8b.chunk.js": "/cmllucmajor.com/static/js/2.f8e1ac8b.chunk.js",
+    "static/js/2.f8e1ac8b.chunk.js.map": "/cmllucmajor.com/static/js/2.f8e1ac8b.chunk.js.map",
+    "index.html": "/cmllucmajor.com/index.html",
+    "precache-manifest.0b7fdeb128755c4eb6c94557bc01b47e.js": "/cmllucmajor.com/precache-manifest.0b7fdeb128755c4eb6c94557bc01b47e.js",
+    "service-worker.js": "/cmllucmajor.com/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/cmllucmajor.com/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f8e1ac8b.chunk.js.LICENSE.txt": "/cmllucmajor.com/static/js/2.f8e1ac8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9219bde.js",
+    "static/js/2.f8e1ac8b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.94ff64ce.chunk.js"
+  ]
+}
