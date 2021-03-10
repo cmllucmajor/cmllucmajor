@@ -465,6 +465,45 @@ header .intro-text {
 	padding: 10px 0 0 0;
 	color: #888;
 }
+/* MAP Section */
+/* .mapouter{
+	background-color: "red";
+	width: "1000px";
+} */
+.map-iframe-container {
+	/* background-color: "red";
+	position: relative;
+	overflow: hidden;
+	width: "600px"; 
+	height: 0;
+	padding-top: 56.25%;  */
+	
+}
+.map-iframe-container iframe {
+	background-color: "blue";
+	/* position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0; 
+  width: "100%";
+  height: "100%";
+  border: 0; */
+}
+/* @media screen and (min-width: 601px) {
+	.map-iframe{
+		width: "1200px";
+		height: "1000px";
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.map-iframe{
+		width: "400px";
+		height: "400px";
+	}
+} */
+
 /* Contact Section */
 #contact {
 	padding: 100px 0 60px 0;
